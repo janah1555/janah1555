@@ -45,12 +45,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/janah1555/count.svg?" />
-</div>
-
-###
-
 <h2 align="left">🔗 Find Me Online</h2>
 
 <div align="left">
