@@ -10,13 +10,13 @@
 
 <h2 align="left">👾 About Me</h2>
 
-<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2JoYndmMGZrdGZzanQxMHd2ZTdzcjZpMnpsamgzbWdjcm9tbGcxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lmkEiLl3pRTAqeULUl/giphy.gif" />
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2JoYndmMGZrdGZzanQxMHd2ZTdzcjZpMnpsamgzbWdjcm9tbGcxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lmkEiLl3pRTAqeULUl/giphy.gif" />
 
 <p align="left">
 - 🎯 Goals: Be a game developer & comic artist (watch out world 👀)<br>
-- 🎨 I draw vibes-heavy characters using: Clip Studio Paint, IbisPaint<br>
-- 💻 Currently learning: Python, HTML, CSS, JavaScript (yes, the Holy Quad)<br>
-- 🐇 Bunny mom, lore lover, and dark mode addict
+- 🎨 I draw with : Clip Studio Paint, IbisPaint<br>
+- 💻 Currently learning: Python, HTML, CSS, JavaScript<br>
+- 🐇 Bunny mom,and dark mode addict
 </p>
 
 ###
@@ -58,4 +58,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
 </div>
-
