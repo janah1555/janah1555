@@ -13,7 +13,7 @@
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2JoYndmMGZrdGZzanQxMHd2ZTdzcjZpMnpsamgzbWdjcm9tbGcxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lmkEiLl3pRTAqeULUl/giphy.gif" />
 
 <p align="left">
-- 🎯 Goals: Be a game developer & comic artist (watch out world 👀)<br>
+- 🎯 Goals: Be a game developer & comic artist (yall gotta watch out🫡)<br>
 - 🎨 I draw with : Clip Studio Paint, IbisPaint<br>
 - 💻 Currently learning: Python, HTML, CSS, JavaScript<br>
 - 🐇 Bunny mom,and dark mode addict
@@ -21,7 +21,7 @@
 
 ###
 
-<h2 align="left">🧠 I Code With</h2>
+<h2 align="left">🧠 I Code With(still learning)</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
