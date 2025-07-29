@@ -1,4 +1,4 @@
-<h1 align="left">Hey!! =D</h1>
+1 align="left">Hey!! =D</h1>
 
 <p align="left">
   I’m <strong>Jhonny</strong> 🌀<br>
@@ -34,9 +34,13 @@
 </div>
 
 <h2 align="left">🔗 Find Me Online</h2>
-
 <div align="left">
   <a href="https://www.instagram.com/jannahrafd/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  </a>
+</div>
+<div align="left">
+  <a href="https://t.me/idkexejj" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
   </a>
 </div>
